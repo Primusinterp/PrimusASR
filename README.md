@@ -10,7 +10,9 @@ PrimusASR is a helper script that i created in order to find ASR exclusions as l
 
 ## Output
 
-The output is a table of the ASR rules and their configuration state.
+The output is a table of the ASR rules and their configuration state along with any indentified Windows Defender or ASR exlusions.
+
+<img width="1218" height="895" alt="image" src="https://github.com/user-attachments/assets/530ed81f-7623-4ce7-954d-99692196b922" />
 
 
 
